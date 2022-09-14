@@ -1,0 +1,15 @@
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\bin\Debug\net6.0\Selection Statements.exe
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\bin\Debug\net6.0\Selection Statements.deps.json
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\bin\Debug\net6.0\Selection Statements.runtimeconfig.json
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\bin\Debug\net6.0\Selection Statements.dll
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\bin\Debug\net6.0\Selection Statements.pdb
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.csproj.AssemblyReference.cache
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.AssemblyInfoInputs.cache
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.AssemblyInfo.cs
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.csproj.CoreCompileInputs.cache
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.dll
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\refint\Selection Statements.dll
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.pdb
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\Selection Statements.genruntimeconfig.cache
+C:\Users\Ben Cofield\repos\Selection Statements\Selection Statements\obj\Debug\net6.0\ref\Selection Statements.dll

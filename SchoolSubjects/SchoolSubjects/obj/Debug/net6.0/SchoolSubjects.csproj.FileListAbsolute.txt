@@ -1,0 +1,15 @@
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\bin\Debug\net6.0\SchoolSubjects.exe
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\bin\Debug\net6.0\SchoolSubjects.deps.json
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\bin\Debug\net6.0\SchoolSubjects.runtimeconfig.json
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\bin\Debug\net6.0\SchoolSubjects.dll
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\bin\Debug\net6.0\SchoolSubjects.pdb
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.csproj.AssemblyReference.cache
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.AssemblyInfoInputs.cache
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.AssemblyInfo.cs
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.dll
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\refint\SchoolSubjects.dll
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.pdb
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\SchoolSubjects.genruntimeconfig.cache
+C:\Users\Ben Cofield\repos\SelectionStatements\SchoolSubjects\SchoolSubjects\obj\Debug\net6.0\ref\SchoolSubjects.dll
